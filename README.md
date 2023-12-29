@@ -37,29 +37,7 @@ java,python,c#,大数据，大模型，数据库等相关学习视频和资料�
 
 
 ## 7 AIGC ChatGPT
-- 完结[【图灵】AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?type=3&product_id=p_6423fc52e4b0b0bc2bcf0677&isLogin=false)
-
-- 完结[【数艺设】AIGC全能通识训练营第一期](https://appcnzdzrnn3446.h5.xiaoeknow.com/v1/goods/goods_detail/p_644e2cace4b0cf39e6c38149?type=3&share_type=5&share_user_id=u_64a7c34b326cc_wobNfPKur8&entry=2&entry_type=2002)
-
-- 完结[【硅谷NLP&LLMs技术及案例中心】面向开发者及科研者的NLP&ChatGPT&LLMs技术、源码、案例实战219课](https://appybiyrtzd9613.h5.xiaoeknow.com/v1/goods/goods_detail/p_62277327e4b066e9608d08ba)
-
-- 完结[【有三AI】ChatGPT大语言模型：技术原理与实战](https://appcdfgt3n15676.h5.xiaoeknow.com/v1/goods/goods_detail/p_64449875e4b0cf39e6bfd966?type=3&channel_id=&product_id=p_64449875e4b0cf39e6bfd966)
-
-- 完结[【卢菁博士的人工智能课堂】AI大模型训练营](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_649bb2b3e4b0cf39e6dd99f3?type=3&channel_id=&product_id=p_649bb2b3e4b0cf39e6dd99f3)
-
-- 完结[【王卓然博士】AI 大模型全栈工程师培养计划（一期）](https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign=zhihumarket&utm_medium=social&utm_source=wechat&utm_content=messages_share) **很火**
-
-- 完结[【王卓然博士】AI 大模型全栈工程师培养计划（二期）](https://www.zhihu.com/education/training/course-detail/1666833802491203584) **很火**
-
-- 更新[【王卓然博士】AI 大模型全栈工程师培养计划（三期）](https://www.zhihu.com/education/training/course-detail/1686055867055710208) **很火**
-
-- 更新[【王卓然博士】AI 大模型全栈工程师培养计划（四期）](https://www.zhihu.com/education/training/course-detail/1703060363610918912) **很火**
-
-- 完结[【极客时间】AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu&gk_cus_user_wechat=university&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu) **很火**
-
-- 更新[【极客时间】AI大模型微调训练营-11.28开课](https://u.geekbang.org/subject/finetuning?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu) **很火**
-
-- 完结[【薛老板】AIGC产品经理特训营-链接直接点打不开，需复制链接到微信打开](#视频号小店://薛老板产品课堂/GL0Y4qQGkhTWfuc)
+![功能图](/.image/chatgpt.png)
 
 ## 8 Android
 
