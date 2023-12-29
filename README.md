@@ -51,6 +51,10 @@ java,python,c#,大数据，大模型，数据库等相关学习视频和资料�
 ## 求职面试
 
 
+- [小牛学堂简历包](链接：https://pan.baidu.com/s/13EnE-bic3Fdq0N6WLjY2fw)  提取码：6lnn
+- [详细型简历模板35份](链接：https://pan.baidu.com/s/15yOz_dobQJW4BFvsnVL8vQ)  提取码：u79m
+- [颠覆常规的简历15份](链接：https://pan.baidu.com/s/1ihzVietiR4Gm9fyld68Umg) 提取码：k82f
+- [国际MBA视频课程《如何制作简历》](链接：https://pan.baidu.com/s/1FDuhwr4hlULVT3AFTWIyNg) 提取码：omj1
 
 ## 技术书籍大全
 
