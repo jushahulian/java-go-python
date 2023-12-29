@@ -59,6 +59,6 @@ java,python,c#,大数据，大模型，数据库等相关学习视频和资料�
 ## 写在结尾知道程序员一般都太会和女生聊天，特地奉上情商课程
 
 
-- [情商课程] (https://pan.baidu.com/s/1cWAq6ULS7T_-JNnXPIJULg) 提取码：uj24
+- [情商课程](https://pan.baidu.com/s/1cWAq6ULS7T_-JNnXPIJULg) 提取码：uj24
 - **马上2024年了，希望大家都能得尝所愿**
 
