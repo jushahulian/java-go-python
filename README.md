@@ -36,7 +36,7 @@ java,python,c#,大数据，大模型，数据库等相关学习视频和资料�
 
 
 ## 7 AIGC ChatGPT
-
+![功能图](/.image/chatgpt.png)
 
 ## 8 Android
 
