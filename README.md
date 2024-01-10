@@ -1,7 +1,7 @@
 # 学习资料分享
 **「逝者如斯夫，不舍昼夜」**  
 java,python,c#,大数据，大模型，数据库等相关学习视频和资料分享
-本人目前为java全栈工程师一枚，想做一些有意义的事情，所分享的资料均为网上收集，如有侵权请联系删除
+本人目前为java技术负责人，想做一些有意义的事情，所分享的资料均为网上收集，如有侵权请联系删除
 也会分享一些个人认为比较不错的网站。
 虚度光阴将近三十余载，现收徒，一对一服务【服务内容包括学习路线分享，学习监督，指导】
 
@@ -36,8 +36,15 @@ java,python,c#,大数据，大模型，数据库等相关学习视频和资料�
 - []()  提取码：
 
 
+## Python课程分享  
 
-## 2 前端课程分享
+- []()  提取码： 
+             
+## AIGC ChatGPT                          
+
+![功能图](/.image/chatgpt.png)              
+
+##  前端课程分享
 
 - [01-bootstrap实战](https://pan.baidu.com/s/1h3vrHlg3zmU2v3OVKlPTuA)  提取码：1j01
 - [02-HTML5入门视频教程【秀野堂】](https://pan.baidu.com/s/1XEFk9purmPhTHA-L5vuBhA)  提取码：wel6
@@ -48,18 +55,17 @@ java,python,c#,大数据，大模型，数据库等相关学习视频和资料�
 - [07-前端工具](https://pan.baidu.com/s/1jtpuh91xAjguB5UspGP3pA)  提取码：p0ru
 - [08-前端手册](https://pan.baidu.com/s/119WECEzjhsfnnJD3o2fAXw)  提取码：x0ai
 
-
-
-## 3 AIGC ChatGPT
-![功能图](/.image/chatgpt.png)
-                                     
- 
-## 4 软件测试
+                                 
+## 软件测试
 
 - [软件测试全六套](https://pan.baidu.com/s/1uQIySPhlILGL2G2M2BTjdQ )  提取码：jjsh 
 - []()  提取码：
+                 
+##  
 
-## 5 求职面试
+- []()  提取码：        
+
+## 求职面试
 
 
 - [01-小牛学堂简历包](https://pan.baidu.com/s/13EnE-bic3Fdq0N6WLjY2fw)  提取码：6lnn
