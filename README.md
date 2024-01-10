@@ -47,37 +47,12 @@ java,python,c#,大数据，大模型，数据库等相关学习视频和资料�
 - [前端工具](https://pan.baidu.com/s/1jtpuh91xAjguB5UspGP3pA)  提取码：p0ru
 - [前端手册](https://pan.baidu.com/s/119WECEzjhsfnnJD3o2fAXw)  提取码：x0ai
 
-## 3 软件测试课程分享
 
 
-- []()  提取码：
-- []()  提取码：
-- []()  提取码：
-
-## 4 c#/.net
-
-
-- []()  提取码：
-- []()  提取码：
-- []()  提取码：
-
-## 5 Linux
-
-- []()  提取码：
-- []()  提取码：
-- []()  提取码：
-
-## 6 数据结构与算法
-
-
-- []()  提取码：
-- []()  提取码：
-- []()  提取码：
-
-## 7 AIGC ChatGPT
+## 3 AIGC ChatGPT
 ![功能图](/.image/chatgpt.png)
 
-## 求职面试
+## 4 求职面试
 
 
 - [小牛学堂简历包](https://pan.baidu.com/s/13EnE-bic3Fdq0N6WLjY2fw)  提取码：6lnn
@@ -87,11 +62,17 @@ java,python,c#,大数据，大模型，数据库等相关学习视频和资料�
 
 
 
-## 接私活必备
+## 其他课程
 
-- []()  提取码：
-- []()  提取码：
-- []()  提取码：
+- [写作教程](https://pan.baidu.com/s/1LIqCZHhfhUCrq-GurX3kHw)  提取码： 79fl
+- [沟通技巧教程](https://pan.baidu.com/s/1b_4vZiExmM0pWGUD28i2LQ)  提取码：vo48
+- [情绪管理教程](https://pan.baidu.com/s/1qIvCFVw4CIafmwiOUEh_Gg)  提取码：yp7u
+- [酒局饭局教程](https://pan.baidu.com/s/1e3Y2R0SMgVgeKAR4dGfttA)  提取码：vmnz
+- [礼仪教程](https://pan.baidu.com/s/1O7nxKRGHZBbDoeAEmyXogw)  提取码：g494
+- [基金股票投资理财教程](https://pan.baidu.com/s/1S9ICRaAGk27oJD903qtGeA)  提取码：mvor
+- [口才与演讲教程](https://pan.baidu.com/s/12g2qX4xCErvvwbaPK30voA)  提取码：fssy
+
+
 
 ## 最后为大家奉上情商课程
 
