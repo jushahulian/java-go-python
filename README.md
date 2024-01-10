@@ -1,6 +1,6 @@
 # 学习资料分享
 **「逝者如斯夫，不舍昼夜」**  
-java,python,c#,大数据，大模型，数据库等相关学习视频和资料分享
+java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 本人目前为java技术负责人，想做一些有意义的事情，所分享的资料均为网上收集，如有侵权请联系删除
 也会分享一些个人认为比较不错的网站。
 虚度光阴将近三十余载，现收徒，一对一服务【服务内容包括学习路线分享，学习监督，指导】
@@ -28,21 +28,33 @@ java,python,c#,大数据，大模型，数据库等相关学习视频和资料�
 - [程序员盒子](https://www.coderutil.com/)
 
 
-## 1 java课程分享
-
+## java课程分享
 
 - [JAVA300集大型视频教程2018版发布](https://pan.baidu.com/s/1QW02BalBusruC4LeE2wuHQ)  提取码：tkq9
 - [尚硅谷2023直播公开课](https://pan.baidu.com/s/1LRqvNHPaERY6KBYtdlY0Mw)  提取码：i7cu       
+- [java编程思想 初级](https://pan.baidu.com/s/1qKtH1W0gnfgAwr2ONl99Rw)  提取码： rdbt 
+- [java编程思想 中级](https://pan.baidu.com/s/1hXJqDJajWGnqHL9LTJ6GaA )  提取码：fxx8  
+- [java编程思想 高级](https://pan.baidu.com/s/1NcSsgrl5Kvr8-ioH_Z8N3w )  提取码： uj6q 
+- [javaSE在线聊天系统](https://pan.baidu.com/s/1cZ-U4aQiwYuNH1gcjpYHVQ)  提取码：94lv 
+- [javaSE反射高级应用](https://pan.baidu.com/s/1SCdSAKcNGJElDsA8ul0BuQ)  提取码：ppkd
+- [javaSE高深讲解](https://pan.baidu.com/s/14tsrG-ifQ7er7Sj-KZdcmA)  提取码： xpr4
+- [java线程并发教程](https://pan.baidu.com/s/1kicmCqQQSJ1ka6k_y65Xlg )  提取码：hg36
+- []()  提取码：
+- []()  提取码：
+- []()  提取码：
+- []()  提取码：
+- []()  提取码：
+- []()  提取码：
 - []()  提取码：
 
+## AIGC ChatGPT                
 
+![功能图](/.image/chatgpt.png)  
+                                
 ## Python课程分享  
-
+   
 - []()  提取码： 
              
-## AIGC ChatGPT                          
-
-![功能图](/.image/chatgpt.png)              
 
 ##  前端课程分享
 
