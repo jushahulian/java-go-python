@@ -21,28 +21,21 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 ## 微信公众号课程会更多更全
 ![功能图](/.image/公众号.jpg)
 
-
-## 工具网站推荐
-
-
-- [程序员盒子](https://www.coderutil.com/)
-
-
 ## java课程分享
 
-- [JAVA300集大型视频教程2018版发布](https://pan.baidu.com/s/1QW02BalBusruC4LeE2wuHQ)  提取码：tkq9
-- [尚硅谷2023直播公开课](https://pan.baidu.com/s/1LRqvNHPaERY6KBYtdlY0Mw)  提取码：i7cu       
-- [java编程思想 初级](https://pan.baidu.com/s/1qKtH1W0gnfgAwr2ONl99Rw)  提取码： rdbt 
-- [java编程思想 中级](https://pan.baidu.com/s/1hXJqDJajWGnqHL9LTJ6GaA )  提取码：fxx8  
-- [java编程思想 高级](https://pan.baidu.com/s/1NcSsgrl5Kvr8-ioH_Z8N3w )  提取码： uj6q 
-- [javaSE在线聊天系统](https://pan.baidu.com/s/1cZ-U4aQiwYuNH1gcjpYHVQ)  提取码：94lv 
-- [javaSE反射高级应用](https://pan.baidu.com/s/1SCdSAKcNGJElDsA8ul0BuQ)  提取码：ppkd
-- [javaSE高深讲解](https://pan.baidu.com/s/14tsrG-ifQ7er7Sj-KZdcmA)  提取码： xpr4
-- [java线程并发教程](https://pan.baidu.com/s/1kicmCqQQSJ1ka6k_y65Xlg )  提取码：hg36
-- []()  提取码：
-- []()  提取码：
-- []()  提取码：
-- []()  提取码：
+- [01-JAVA300集大型视频教程2018版发布](https://pan.baidu.com/s/1QW02BalBusruC4LeE2wuHQ)  提取码：tkq9
+- [02-尚硅谷2023直播公开课](https://pan.baidu.com/s/1LRqvNHPaERY6KBYtdlY0Mw)  提取码：i7cu       
+- [03-java编程思想 初级](https://pan.baidu.com/s/1qKtH1W0gnfgAwr2ONl99Rw)  提取码： rdbt 
+- [04-java编程思想 中级](https://pan.baidu.com/s/1hXJqDJajWGnqHL9LTJ6GaA )  提取码：fxx8  
+- [05-java编程思想 高级](https://pan.baidu.com/s/1NcSsgrl5Kvr8-ioH_Z8N3w )  提取码： uj6q 
+- [06-javaSE在线聊天系统](https://pan.baidu.com/s/1cZ-U4aQiwYuNH1gcjpYHVQ)  提取码：94lv 
+- [07-javaSE反射高级应用](https://pan.baidu.com/s/1SCdSAKcNGJElDsA8ul0BuQ)  提取码：ppkd
+- [08-javaSE高深讲解](https://pan.baidu.com/s/14tsrG-ifQ7er7Sj-KZdcmA)  提取码： xpr4
+- [09-java线程并发教程](https://pan.baidu.com/s/1kicmCqQQSJ1ka6k_y65Xlg )  提取码：hg36
+- [10-Git视频教程权威指南](https://pan.baidu.com/s/1sQLg5407CUo0rmfTukJYdA)  提取码：f57h
+- [11-Redis从入门到精通](https://pan.baidu.com/s/1XxxuT1dj1aK4nxbufDYMNg)  提取码：8rhx
+- [12-深入JVM内核—原理、诊断与优化](https://pan.baidu.com/s/17krfdayJZUUHJN-uNIu2Mw)  提取码：uj0q
+- [13-淘淘商城实战高并发分布式项目(有源码)](https://pan.baidu.com/s/1BlKG6_63j20x733duM_-Nw)  提取码：7scz
 - []()  提取码：
 - []()  提取码：
 - []()  提取码：
@@ -53,7 +46,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
                                 
 ## Python课程分享  
    
-- []()  提取码： 
+- [Python](https://pan.baidu.com/s/1Gb0dKB8td8khKiW_40mO1Q)  提取码： t4r6
              
 
 ##  前端课程分享
@@ -96,9 +89,9 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [05-礼仪教程](https://pan.baidu.com/s/1O7nxKRGHZBbDoeAEmyXogw)  提取码：g494
 - [06-基金股票投资理财教程](https://pan.baidu.com/s/1S9ICRaAGk27oJD903qtGeA)  提取码：mvor
 - [07-口才与演讲教程](https://pan.baidu.com/s/12g2qX4xCErvvwbaPK30voA)  提取码：fssy
-
-
-
+- [08-手机拍照教程](https://pan.baidu.com/s/1xj283KPwuPskObe0uXluag)  提取码：y92d
+- [09-手机修图教程](https://pan.baidu.com/s/1OFHrcCRze4nss2tZs0WvPw )  提取码： es18
+- [10-单反摄影教程](https://pan.baidu.com/s/18cpv_kjeZBA0iYCc0axEzg)  提取码：jbt5
 ## 最后为大家奉上情商课程
 
 
