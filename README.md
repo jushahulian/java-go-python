@@ -65,7 +65,12 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 ## Python课程分享  
    
 - [01-Python](https://pan.baidu.com/s/1Gb0dKB8td8khKiW_40mO1Q)  提取码： t4r6
-- [02-图灵Python全套实战项目班] 超火系列          
+- [02-【慕课】Python全栈工程师](https://class.imooc.com/sale/python2020)
+- [03-【51CTO】反爬虫AST混淆JavaScript与还原实战](https://edu.51cto.com/course/27492.html)
+- [04-【51CTO】零基础深度学习爬虫验证码识别](https://edu.51cto.com/course/27474.html?so1)
+- [05-【百战尚学堂】Python全能工程师](http://m.itbaizhan.com/pages/course/courseIntroduce/courseIntroduce?id=17&course=no)
+- [06-【图灵】Python全套实战项目班](https://www.processon.com/view/link/64466f930fb07e72341c389d) **超火**
+- [07【慕课网】Python Web全栈工程师](https://class.imooc.com/sale/pythonweb) **超火**        
 
 ##  前端课程分享
 
