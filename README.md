@@ -41,10 +41,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [16-SpringCloudAlibaba高并发仿斗鱼直播平台实战]
 - [17-SpringBoot+Vue3+MySQL集群 开发大健康体检双系统]
 - [18-新版Springboot3.0打造能落地的高并发仿12306售票]
-- []
-- []
-- []
-- []
+
 ## AIGC ChatGPT 
 
 - [01-【图灵】AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?type=3&product_id=p_6423fc52e4b0b0bc2bcf0677&isLogin=false)
@@ -251,3 +248,4 @@ P8百万大数据
 - **情商课程不能直接分享，需要请加我v**
 - **2024年了，祝大家都能得尝所愿**
 - **整理不易，记得 Star 关注哦**  
+- **全部课程清单地址：https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji**  
