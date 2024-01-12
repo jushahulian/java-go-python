@@ -41,6 +41,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [16-SpringCloudAlibaba高并发仿斗鱼直播平台实战]
 - [17-SpringBoot+Vue3+MySQL集群 开发大健康体检双系统]
 - [18-新版Springboot3.0打造能落地的高并发仿12306售票]
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 ## AIGC ChatGPT
 
@@ -83,6 +84,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [07-前端工具](https://pan.baidu.com/s/1jtpuh91xAjguB5UspGP3pA)  提取码：p0ru
 - [08-前端手册](https://pan.baidu.com/s/119WECEzjhsfnnJD3o2fAXw)  提取码：x0ai
 - [09-前端必学 40个精选案例实战 从零吃透HTML5+CSS3+JS]
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 ## 大数据系列
 - [【马士兵】大数据全栈工程师（一班，二班）]**热卖棒**
@@ -113,27 +115,28 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - **P8百万大数据** 
 - [【奈学】百万大数据架构师（第1期）2021.01.30-2021.04.30完结]
 - [【奈学】百万大数据架构师（第6期）2021.11.24-2022.05.09完结]
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 ## C#/.net，上位机系列
 
 **朝夕教育**
-- [01.【朝夕教育】C#.NET高级进阶VIP班（第15期）](https://ke.qq.com/course/453949#term_id=105694591)
-- [01.【](https://ke.qq.com/course/453949#term_id=105771026)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET高级进阶VIP班（第16期）]
-- [02.【](https://ke.qq.com/course/456926)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】【薪选T9】C#.NET架构师蜕变营（第2期）] **招牌**
-- [02.【](https://ke.qq.com/course/456926)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】【薪选T9】C#.NET架构师蜕变营（第3期）] **招牌**
-- [03.【](https://ke.qq.com/course/464059#term_id=105860346)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET高端全栈VIP班（第3期）]
-- [03.【](https://ke.qq.com/course/464059#term_id=106049680)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET高端全栈VIP班（第4期）]
-- [04.【](https://ke.qq.com/course/464930#term_id=106050918)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#+Winform+WPF上位机高薪就业VIP班(SqlServerS7Modbus工控)（第4期）]
-- [04【](https://ke.qq.com/course/464930#term_id=105655963)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#+Winform+WPF上位机高薪就业VIP班(SqlServerS7Modbus工控) (第3期)]
-- [05.【](https://ke.qq.com/course/2959515#term_id=105854048)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】WPF+上位机+工业互联高薪VIP班(PLCS7运动控制机器视觉物联网（第2期）]
-- [05.【](https://ke.qq.com/course/2959515#term_id=106230582)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】WPF+上位机+工业互联高薪VIP班(PLCS7运动控制机器视觉物联网（第3期）]
-- [06.【](https://ke.qq.com/course/2962503)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】ABP.vNext框架精研VIP班]
-- [09.【](https://ke.qq.com/course/3455220)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】Web前端实战进阶VIP班（第2期）]
-- [10.【](https://ke.qq.com/course/3456377)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET网站开发高薪就业VIP班]
-- [11.【](https://ke.qq.com/course/3518361)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】MVP亲授C#.NET编程设计锦囊（第2期）]
-- [12.【](https://ke.qq.com/course/3853023)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】.NET跨平台专属Linux私房课]
-- [14.【](https://ke.qq.com/course/4158259)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】高级项目管理VIP课，专为【程序员升级，年薪突破30w】定向打造]
-- [15.【](https://ke.qq.com/course/4455169)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】金三银四面试锦囊]
+- [01.【朝夕教育】C#.NET高级进阶VIP班（第15期）]
+- [01.【朝夕教育】C#.NET高级进阶VIP班（第16期）]
+- [02.【朝夕教育】【薪选T9】C#.NET架构师蜕变营（第2期）] **招牌**
+- [02.【朝夕教育】【薪选T9】C#.NET架构师蜕变营（第3期）] **招牌**
+- [03.【朝夕教育】C#.NET高端全栈VIP班（第3期）]
+- [03.【朝夕教育】C#.NET高端全栈VIP班（第4期）]
+- [04.【朝夕教育】C#+Winform+WPF上位机高薪就业VIP班(SqlServerS7Modbus工控)（第4期）]
+- [04.【朝夕教育】C#+Winform+WPF上位机高薪就业VIP班(SqlServerS7Modbus工控) (第3期)]
+- [05.【朝夕教育】WPF+上位机+工业互联高薪VIP班(PLCS7运动控制机器视觉物联网（第2期）]
+- [05.【朝夕教育】WPF+上位机+工业互联高薪VIP班(PLCS7运动控制机器视觉物联网（第3期）]
+- [06.【朝夕教育】ABP.vNext框架精研VIP班]
+- [09.【朝夕教育】Web前端实战进阶VIP班（第2期）]
+- [10.【朝夕教育】C#.NET网站开发高薪就业VIP班]
+- [11.【朝夕教育】MVP亲授C#.NET编程设计锦囊（第2期）]
+- [12.【朝夕教育】.NET跨平台专属Linux私房课]
+- [14.【朝夕教育】高级项目管理VIP课，专为【程序员升级，年薪突破30w】定向打造]
+- [15.【朝夕教育】金三银四面试锦囊]
 - [18.【朝夕教育】朝夕运动控制+机器视觉专项实战进阶]
 - []
 **奕鼎通教育（推荐，热门）**
@@ -144,7 +147,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [21-【新阁教育】最新智能化上位机框架课]
 - [22-【新阁教育】C#上位机智能框架VIP课程]
 - [23-【新阁教育】WTM云联上位机VIP进阶课程]
-
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 ## C/C++
 
 - [【小码哥】30小时快速精通C++和外挂实战]
@@ -177,6 +180,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 **零声学院**
 **施磊（打包优惠）**
 **阅马场（打包优惠）**
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 ## 网安/逆向
 
@@ -205,7 +209,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [23-【看雪】恶意程序分析与高级对抗技术]
 - [24-【看雪】Linux平台漏洞分析利用和挖掘]
 - [25-【看雪】Unicorn高级逆向与反混淆]
-                                 
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)                                 
 ## 软件测试
 
 - [01-软件测试全六套](https://pan.baidu.com/s/1uQIySPhlILGL2G2M2BTjdQ )  提取码：jjsh
@@ -216,15 +220,15 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [06-【黑马-博学谷】软件测试在线就业班-2021年完结V4.0]
 - [07-【百战】软件测试 全系列-2022最新]
 - [08-【码尚教育】测开之Python全栈自动化测试VIP课程对标大厂标准]
-                 
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)                 
 ## 算法和数据结构
 
 - [01-算法与数据结构（C++版） 面试评级的算法复习技能包]        
-
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 ## 云计算
 
 - [【猿来教育】 Linux云计算SRE工程师2023]
-
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 ## 网络安全
 
 
@@ -235,7 +239,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [02-详细型简历模板35份](https://pan.baidu.com/s/15yOz_dobQJW4BFvsnVL8vQ)  提取码：u79m
 - [03-颠覆常规的简历15份](https://pan.baidu.com/s/1ihzVietiR4Gm9fyld68Umg) 提取码：k82f
 - [04-国际MBA视频课程《如何制作简历》](https://pan.baidu.com/s/1FDuhwr4hlULVT3AFTWIyNg) 提取码：omj1
-
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 
 ## 其他技能课程
@@ -251,6 +255,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [09-手机修图教程](https://pan.baidu.com/s/1OFHrcCRze4nss2tZs0WvPw )  提取码： es18
 - [10-单反摄影教程](https://pan.baidu.com/s/18cpv_kjeZBA0iYCc0axEzg)  提取码：jbt5
 - [11-青少年少儿编程(Scratch教程,Python教程,C++教程,乐高教程)]
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 ## 最后为大家奉上情商课程
 
 
