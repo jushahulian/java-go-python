@@ -60,9 +60,8 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [13-猿课教育用ChatGPT搞定工作和副业]
 - [14-【深度之眼】人类知识要素嵌入大语言模型论文小班-以 ChatGPT 在医疗，社交等领域的应用为例]
 - [15-【博学谷】AI大模型训练营]
-
-![功能图](/.image/chatgpt.png)  
-                                
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
+                          
 ## Python课程分享  
    
 - [01-Python](https://pan.baidu.com/s/1Gb0dKB8td8khKiW_40mO1Q)  提取码： t4r6
