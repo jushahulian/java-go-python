@@ -17,7 +17,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 注明来意。   
 
 由于本人时间关系，有的还没来的及写上去。
-需要新课程的请加本人微信
+所有未贴提取码的请加本人微信获取
 ## 微信公众号课程会更多更全
 ![功能图](/.image/公众号.jpg)
 
@@ -42,7 +42,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [17-SpringBoot+Vue3+MySQL集群 开发大健康体检双系统]
 - [18-新版Springboot3.0打造能落地的高并发仿12306售票]
 
-## AIGC ChatGPT 
+## AIGC ChatGPT 加微信 
 
 - [01-【图灵】AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?type=3&product_id=p_6423fc52e4b0b0bc2bcf0677&isLogin=false)
 - [02-【数艺设】AIGC全能通识训练营第一期](https://appcnzdzrnn3446.h5.xiaoeknow.com/v1/goods/goods_detail/p_644e2cace4b0cf39e6c38149?type=3&share_type=5&share_user_id=u_64a7c34b326cc_wobNfPKur8&entry=2&entry_type=2002)
@@ -97,17 +97,20 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [【咕泡】P5:大数据高薪项目实战（涨薪班）第7期 2022.3.20完结](https://ke.gupaoedu.cn/course/vip/293)**热卖棒超推荐2022最新**
 - [【咕泡】P6:ElasticStack高级开发与架构（实战班）第2期 2022.3完结](https://ke.gupaoedu.cn/course/vip/1002**)热卖棒超推荐2022最新**
 - [【大讲台】大数据实战精英+架构师班（第6期）2022最新一期](https://ke.qq.com/course/385934)热卖棒超推荐2022最新
-**奈学系列 **
+- [奈学系列]
 **P6大数据研发**
 - [【奈学】大数据研发工程师（第3期）2020.10.29-2021.02.28完结](https://e.naixuejiaoyu.com/detail/term_5f4e159933913_Zgq4WH/25)
 - [【奈学】大数据研发工程师（第11期）2021.10.30-2022.02.28完结](https://e.naixuejiaoyu.com/detail/term_612ca3c90b541_EDnWzY/25)
 - [【奈学】大数据研发工程师（第13期）2021.02.25-2022.08.07完结](https://e.naixuejiaoyu.com/detail/term_61caba74f1620_oarjYr/25)
+- []
 **P7大数据架构**
+- []
 - [【奈学】大数据架构师（第3期）2020.09.28-2021.01.28完结](https://e.naixuejiaoyu.com/detail/term_5f46446926cfc_qaw5C6/25)
 - [【奈学】大数据架构师（第5期）2020.12.29-2021.05.01完结](https://e.naixuejiaoyu.com/detail/term_5fc63b51c389b_UojUNJ/25)
 - [【奈学】大数据架构师（第10期）2021.07.30-2021.01.01完结](https://e.naixuejiaoyu.com/detail/term_60bf190ddff5d_dTByJa/25)
 - [【奈学】大数据架构师（第12期）2021.12.01-2022.04.30完结](https://e.naixuejiaoyu.com/detail/term_6152b922e6f73_iTdJ16/25)
-**P8百万大数据** 
+- []
+- **P8百万大数据** 
 - [【奈学】百万大数据架构师（第1期）2021.01.30-2021.04.30完结](https://e.naixuejiaoyu.com/detail/term_5fc8df1fb45c3_SngrK1/25)
 - [【奈学】百万大数据架构师（第6期）2021.11.24-2022.05.09完结](https://e.naixuejiaoyu.com/detail/term_6155829f8b54a_N077da/25)
 
@@ -132,11 +135,11 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [14.【](https://ke.qq.com/course/4158259)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】高级项目管理VIP课，专为【程序员升级，年薪突破30w】定向打造](https://ke.qq.com/course/4158259)
 - [15.【](https://ke.qq.com/course/4455169)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】金三银四面试锦囊](https://ke.qq.com/course/4455169)
 - [18.【朝夕教育】朝夕运动控制+机器视觉专项实战进阶](https://ke.qq.com/course/5859414#term_id=106262733)
-
+- []
 **奕鼎通教育（推荐，热门）**
 - [19-【奕鼎通教育】C#/.NET P6架构班第四期（2110班）](https://ke.qq.com/course/3028427#term_id=104185868)
 - [20-【奕鼎通教育】C#/.NET P6架构班第四期（2307班）](https://ke.qq.com/course/3028427#term_id=104185868)
-
+- []
 **新阁教育**
 - [21-【新阁教育】最新智能化上位机框架课](https://appc1fkuaje2328.h5.xiaoeknow.com/v1/goods/goods_detail/p_6384765ae4b0fc5d120ba7a7?type=3)
 - [22-【新阁教育】C#上位机智能框架VIP课程](https://appc1fkuaje2328.h5.xiaoeknow.com/v1/goods/goods_detail/p_63560751e4b0eca59c429378?type=3)
@@ -170,6 +173,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [【子牙】手写JVM小班五期](https://appj0ys2x9d4585.h5.xiaoeknow.com/v1/goods/goods_detail/p_621ee00ae4b02b82584ffa50?type=3)
 - [【王道】C++长期班线下43期](http://www.cskaoyan.com/thread-663165-1-1.html)
 - [【达内】c++软件工程师2023](https://www.tedu.cn/c/)
+- []
 **零声学院**
 **施磊（打包优惠）**
 **阅马场（打包优惠）**
