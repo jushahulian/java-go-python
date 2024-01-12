@@ -42,20 +42,20 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [17-SpringBoot+Vue3+MySQL集群 开发大健康体检双系统]
 - [18-新版Springboot3.0打造能落地的高并发仿12306售票]
 
-## AIGC ChatGPT 加微信 
+## AIGC ChatGPT  
 
-- [01-【图灵】AI&ChatGPT实战训练营](https://appgpn9idwb6991.h5.xiaoeknow.com/v1/goods/goods_detail/p_6423fc52e4b0b0bc2bcf0677?type=3&product_id=p_6423fc52e4b0b0bc2bcf0677&isLogin=false)
-- [02-【数艺设】AIGC全能通识训练营第一期](https://appcnzdzrnn3446.h5.xiaoeknow.com/v1/goods/goods_detail/p_644e2cace4b0cf39e6c38149?type=3&share_type=5&share_user_id=u_64a7c34b326cc_wobNfPKur8&entry=2&entry_type=2002)
-- [03-【硅谷NLP&LLMs技术及案例中心】面向开发者及科研者的NLP&ChatGPT&LLMs技术、源码、案例实战219课](https://appybiyrtzd9613.h5.xiaoeknow.com/v1/goods/goods_detail/p_62277327e4b066e9608d08ba)
-- [04-【有三AI】ChatGPT大语言模型：技术原理与实战](https://appcdfgt3n15676.h5.xiaoeknow.com/v1/goods/goods_detail/p_64449875e4b0cf39e6bfd966?type=3&channel_id=&product_id=p_64449875e4b0cf39e6bfd966)
-- [05-【卢菁博士的人工智能课堂】AI大模型训练营](https://app4tvrkyjd6910.h5.xiaoeknow.com/v1/goods/goods_detail/p_649bb2b3e4b0cf39e6dd99f3?type=3&channel_id=&product_id=p_649bb2b3e4b0cf39e6dd99f3)
-- [06-【王卓然博士】AI 大模型全栈工程师培养计划（一期）](https://www.zhihu.com/xen/market/remix/training/1658062407640682496?utm_campaign=zhihumarket&utm_medium=social&utm_source=wechat&utm_content=messages_share) **很火**
-- [07-【王卓然博士】AI 大模型全栈工程师培养计划（二期）](https://www.zhihu.com/education/training/course-detail/1666833802491203584) **很火**
-- [08-【王卓然博士】AI 大模型全栈工程师培养计划（三期）](https://www.zhihu.com/education/training/course-detail/1686055867055710208) **很火**
-- [09-【王卓然博士】AI 大模型全栈工程师培养计划（四期）](https://www.zhihu.com/education/training/course-detail/1703060363610918912) **很火**
-- [10-【极客时间】AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu&gk_cus_user_wechat=university&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu) **很火**
-- [11-【极客时间】AI大模型微调训练营-11.28开课](https://u.geekbang.org/subject/finetuning?utm_source=time_web&utm_medium=menu&utm_term=timewebmenu) **很火**
-- [12-【薛老板】AIGC产品经理特训营-链接直接点打不开，需复制链接到微信打开](#视频号小店://薛老板产品课堂/GL0Y4qQGkhTWfuc)
+- [01-【图灵】AI&ChatGPT实战训练营]()
+- [02-【数艺设】AIGC全能通识训练营第一期]()
+- [03-【硅谷NLP&LLMs技术及案例中心】面向开发者及科研者的NLP&ChatGPT&LLMs技术、源码、案例实战219课]()
+- [04-【有三AI】ChatGPT大语言模型：技术原理与实战]()
+- [05-【卢菁博士的人工智能课堂】AI大模型训练营]()
+- [06-【王卓然博士】AI 大模型全栈工程师培养计划（一期）]() **很火**
+- [07-【王卓然博士】AI 大模型全栈工程师培养计划（二期）]() **很火**
+- [08-【王卓然博士】AI 大模型全栈工程师培养计划（三期）]() **很火**
+- [09-【王卓然博士】AI 大模型全栈工程师培养计划（四期）]() **很火**
+- [10-【极客时间】AI 大模型应用开发实战营]() **很火**
+- [11-【极客时间】AI大模型微调训练营-11.28开课]() **很火**
+- [12-【薛老板】AIGC产品经理特训营]()
 - [13-猿课教育用ChatGPT搞定工作和副业]
 - [14-【深度之眼】人类知识要素嵌入大语言模型论文小班-以 ChatGPT 在医疗，社交等领域的应用为例]
 - [15-【博学谷】AI大模型训练营]
@@ -65,8 +65,8 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 ## Python课程分享  
    
 - [01-Python](https://pan.baidu.com/s/1Gb0dKB8td8khKiW_40mO1Q)  提取码： t4r6
-- [02-【慕课】Python全栈工程师](https://class.imooc.com/sale/python2020)
-- [03-【51CTO】反爬虫AST混淆JavaScript与还原实战](https://edu.51cto.com/course/27492.html)
+- [02-【慕课】Python全栈工程师]()
+- [03-【51CTO】反爬虫AST混淆JavaScript与还原实战]()
 - [04-【51CTO】零基础深度学习爬虫验证码识别](https://edu.51cto.com/course/27474.html?so1)
 - [05-【百战尚学堂】Python全能工程师](http://m.itbaizhan.com/pages/course/courseIntroduce/courseIntroduce?id=17&course=no)
 - [06-【图灵】Python全套实战项目班](https://www.processon.com/view/link/64466f930fb07e72341c389d) **超火**
