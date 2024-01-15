@@ -17,6 +17,8 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 
 由于本人时间关系，有的还没来的及写上去。
 所有未贴提取码的请加本人微信获取
+## 微信公众号课程会更多更全
+![功能图](/.image/公众号.jpg)
 
 ## java课程分享
 
@@ -59,7 +61,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [15-【博学谷】AI大模型训练营]
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
                           
-## Python课程分享  
+## Python课程 
    
 - [01-Python](https://pan.baidu.com/s/1Gb0dKB8td8khKiW_40mO1Q)  提取码： t4r6
 - [02-【慕课】Python全栈工程师]
@@ -69,7 +71,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [06-【图灵】Python全套实战项目班]**超火**
 - [07【慕课网】Python Web全栈工程师]**超火**        
 
-##  前端课程分享
+##  前端课程
 
 - [01-bootstrap实战](https://pan.baidu.com/s/1h3vrHlg3zmU2v3OVKlPTuA)  提取码：1j01
 - [02-HTML5入门视频教程【秀野堂】](https://pan.baidu.com/s/1XEFk9purmPhTHA-L5vuBhA)  提取码：wel6
@@ -227,6 +229,8 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 ## 网络安全
 
+## 韦东山（全部）
+[韦东山](韦东山.md)
 
 ## 求职面试
 
@@ -253,8 +257,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [11-青少年少儿编程(Scratch教程,Python教程,C++教程,乐高教程)]
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
-## 微信公众号课程会更多更全
-![功能图](/.image/公众号.jpg)
+
 
 ## 最后为大家奉上情商课程
 
