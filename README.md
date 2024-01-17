@@ -36,10 +36,11 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [12-深入JVM内核—原理、诊断与优化](https://pan.baidu.com/s/17krfdayJZUUHJN-uNIu2Mw)  提取码：uj0q
 - [13-淘淘商城实战高并发分布式项目(有源码)](https://pan.baidu.com/s/1BlKG6_63j20x733duM_-Nw)  提取码：7scz
 - [14-子牙手写JVM小班第五期]
-- [15-马士兵MCA高级架构师] 全部完整版
+- [15-马士兵MCA高级架构师] 全部完整版账号可共享
 - [16-SpringCloudAlibaba高并发仿斗鱼直播平台实战]
 - [17-SpringBoot+Vue3+MySQL集群 开发大健康体检双系统]
 - [18-新版Springboot3.0打造能落地的高并发仿12306售票]
+- [19-慕课网java](慕课网java108个.md)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 ## AIGC ChatGPT
@@ -79,6 +80,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [07-前端工具](https://pan.baidu.com/s/1jtpuh91xAjguB5UspGP3pA)  提取码：p0ru
 - [08-前端手册](https://pan.baidu.com/s/119WECEzjhsfnnJD3o2fAXw)  提取码：x0ai
 - [09-前端必学 40个精选案例实战 从零吃透HTML5+CSS3+JS]
+- [10-慕课网前端121个](慕课网前端121个.md)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 ## 大数据系列
