@@ -40,7 +40,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [16-SpringCloudAlibaba高并发仿斗鱼直播平台实战]
 - [17-SpringBoot+Vue3+MySQL集群 开发大健康体检双系统]
 - [18-新版Springboot3.0打造能落地的高并发仿12306售票]
-- [19-慕课网java](慕课网java108个.md)
+- [19-慕课网java](03慕课网java108个.md)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 ## AIGC ChatGPT
@@ -57,7 +57,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [10-【极客时间】AI 大模型应用开发实战营] **很火**
 - [11-【极客时间】AI大模型微调训练营-11.28开课] **很火**
 - [12-【博学谷】AI大模型训练营]
-- [AIGC&ChatGPT完整课程](AIGC&ChatGPT.md)
+- [AIGC&ChatGPT完整课程](04AIGC&ChatGPT.md)
                           
 ## Python课程 
    
@@ -80,7 +80,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [07-前端工具](https://pan.baidu.com/s/1jtpuh91xAjguB5UspGP3pA)  提取码：p0ru
 - [08-前端手册](https://pan.baidu.com/s/119WECEzjhsfnnJD3o2fAXw)  提取码：x0ai
 - [09-前端必学 40个精选案例实战 从零吃透HTML5+CSS3+JS]
-- [10-慕课网前端121个](慕课网前端121个.md)
+- [10-慕课网前端121个](02慕课网前端121个.md)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 ## 大数据系列
@@ -233,13 +233,15 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 
 ## 求职面试
 
-
 - [01-小牛学堂简历包](https://pan.baidu.com/s/13EnE-bic3Fdq0N6WLjY2fw)  提取码：6lnn
 - [02-详细型简历模板35份](https://pan.baidu.com/s/15yOz_dobQJW4BFvsnVL8vQ)  提取码：u79m
 - [03-颠覆常规的简历15份](https://pan.baidu.com/s/1ihzVietiR4Gm9fyld68Umg) 提取码：k82f
 - [04-国际MBA视频课程《如何制作简历》](https://pan.baidu.com/s/1FDuhwr4hlULVT3AFTWIyNg) 提取码：omj1
-- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
+- [求职面试完整](求职面试.md)
 
+## coderwhy系列
+
+- [coderwhy系列](coderwhy系列.md)
 
 ## 其他技能课程
 
