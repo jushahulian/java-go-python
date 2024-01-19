@@ -232,15 +232,24 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 
 ## coderwhy系列
 
-- [coderwhy系列](10coderwhy系列.md)
+- [coderwhy完整清单](10coderwhy系列.md)
+
 
 ## 人工智能AI系列
 
+
 ## K8S、Docker、DevOps（运维）
+
 
 ## 游戏开发
 
-## 
+## 鸿蒙开发2024 风口
+
+
+
+## 数据库系列
+
+- [数据库完整清单](14数据库系列.md)
 
 ## 其他技能课程
 
