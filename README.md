@@ -234,6 +234,14 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 
 - [coderwhy系列](10coderwhy系列.md)
 
+## 人工智能AI系列
+
+## K8S、Docker、DevOps（运维）
+
+## 游戏开发
+
+## 
+
 ## 其他技能课程
 
 - [01-写作教程](https://pan.baidu.com/s/1LIqCZHhfhUCrq-GurX3kHw)  提取码： 79fl
