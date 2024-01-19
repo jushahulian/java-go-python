@@ -36,7 +36,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [12-深入JVM内核—原理、诊断与优化](https://pan.baidu.com/s/17krfdayJZUUHJN-uNIu2Mw)  提取码：uj0q
 - [13-淘淘商城实战高并发分布式项目(有源码)](https://pan.baidu.com/s/1BlKG6_63j20x733duM_-Nw)  提取码：7scz
 - [14-子牙手写JVM小班第五期]
-- [15-马士兵MCA高级架构师] 全部完整版账号可共享
+- [15-马士兵MCA高级架构师] **全部完整版账号可共享**
 - [16-SpringCloudAlibaba高并发仿斗鱼直播平台实战]
 - [17-SpringBoot+Vue3+MySQL集群 开发大健康体检双系统]
 - [18-新版Springboot3.0打造能落地的高并发仿12306售票]
@@ -225,7 +225,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 
 ## 产品经理
 
-- [传智教育产品经理训练营](https://pan.baidu.com/s/1CNBdFl-RESGA_G2TeBxycA) 提取码：Vl44
+- [传智教育产品经理训练营](https://pan.baidu.com/s/1CNBdFl-RESGA_G2TeBxycA) 
 
 ## 书籍大全
 
@@ -256,6 +256,12 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [09-手机修图教程](https://pan.baidu.com/s/1OFHrcCRze4nss2tZs0WvPw )  提取码： es18
 - [10-单反摄影教程](https://pan.baidu.com/s/18cpv_kjeZBA0iYCc0axEzg)  提取码：jbt5
 - [11-青少年少儿编程(Scratch教程,Python教程,C++教程,乐高教程)]
+- [12-张琦新618商业魅力领导成长大课]
+- [13-张景明中医课程]
+- [14-围棋教程大全]
+- [15-收纳课程大全]
+- [16-羽毛球教程]
+- [17-篮球教程]
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
 
@@ -266,4 +272,5 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - **情商课程不能直接分享，需要请加我v**
 - **2024年了，祝大家都能得尝所愿**
 - **整理不易，记得 Star 关注哦**  
+- **最高级的自律，享受孤独**
 - **全部课程清单地址：https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji**  
