@@ -20,7 +20,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 ## 微信公众号课程会更多更全
 ![功能图](/.image/公众号.jpg)
 
-## java课程分享
+## 01java 系列
 
 - [01-JAVA300集大型视频教程2018版发布](https://pan.baidu.com/s/1QW02BalBusruC4LeE2wuHQ)  提取码：tkq9
 - [02-尚硅谷2023直播公开课](https://pan.baidu.com/s/1LRqvNHPaERY6KBYtdlY0Mw)  提取码：i7cu       
@@ -41,9 +41,15 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [17-SpringBoot+Vue3+MySQL集群 开发大健康体检双系统]
 - [18-新版Springboot3.0打造能落地的高并发仿12306售票]
 - [19-慕课网java](03慕课网java108个.md)
+- [20-java系列大全](java系列.md)
+- [21-极客时间](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
+- [22-图灵课堂](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
+- [23-小滴课堂](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
+- [24-马士兵系列](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
+- [25-大厂学院](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
-## AIGC ChatGPT
+## 02 AIGC ChatGPT  
 
 - [01-【图灵】AI&ChatGPT实战训练营]
 - [02-【数艺设】AIGC全能通识训练营第一期]
@@ -59,7 +65,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [12-【博学谷】AI大模型训练营]
 - [AIGC&ChatGPT完整课程](04AIGC&ChatGPT.md)
                           
-## Python课程 
+## 03 Python系列 
    
 - [01-Python](https://pan.baidu.com/s/1Gb0dKB8td8khKiW_40mO1Q)  提取码： t4r6
 - [02-【慕课】Python全栈工程师]
@@ -69,7 +75,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [06-【图灵】Python全套实战项目班]**超火**
 - [07【慕课网】Python Web全栈工程师]**超火**        
 
-##  前端课程
+## 04 前端课程
 
 - [01-bootstrap实战](https://pan.baidu.com/s/1h3vrHlg3zmU2v3OVKlPTuA)  提取码：1j01
 - [02-HTML5入门视频教程【秀野堂】](https://pan.baidu.com/s/1XEFk9purmPhTHA-L5vuBhA)  提取码：wel6
@@ -83,42 +89,20 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [10-慕课网前端121个](02慕课网前端121个.md)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
-## 大数据系列
+## 05 大数据系列
 - [【马士兵】大数据全栈工程师（一班，二班）]**热卖棒**
-- [【开课吧】开课吧大数据开发工程师 第10期]
-- [【网易云】大数据开发工程师]
 - [【博学谷】零基础大数据在线就业班（2021升级）]**热卖棒**
 - [【拉钩教育】大数据开发高薪训练营-2021下半年完结]**热卖热卖棒超推荐**
 - [【慕课】大数据开发工程师]**热卖棒超推荐**
 - [【尚硅谷】大数据大神班-2021.2.24]**热卖棒超推荐**
-- [【百战】大数据开发训练营]
 - [【极客】大数据训练营（第0期）2021年6月27日开课，11月10日完结]**热卖棒超推荐**
 - [【咕泡】P5:大数据高薪项目实战（涨薪班）第7期 2022.3.20完结]**热卖棒超推荐2022最新**
 - [【咕泡】P6:ElasticStack高级开发与架构（实战班）第2期 2022.3完结]热卖棒超推荐2022最新**
 - [【大讲台】大数据实战精英+架构师班（第6期）2022最新一期]热卖棒超推荐2022最新
-- [奈学系列]
-- []
-**P6大数据研发**
-- [【奈学】大数据研发工程师（第3期）2020.10.29-2021.02.28完结]
-- [【奈学】大数据研发工程师（第11期）2021.10.30-2022.02.28完结]
-- [【奈学】大数据研发工程师（第13期）2021.02.25-2022.08.07完结]
-- []
-**P7大数据架构**
-- []
-- [【奈学】大数据架构师（第3期）2020.09.28-2021.01.28完结]
-- [【奈学】大数据架构师（第5期）2020.12.29-2021.05.01完结]
-- [【奈学】大数据架构师（第10期）2021.07.30-2021.01.01完结]
-- [【奈学】大数据架构师（第12期）2021.12.01-2022.04.30完结]
-- []
-- **P8百万大数据** 
-- [【奈学】百万大数据架构师（第1期）2021.01.30-2021.04.30完结]
-- [【奈学】百万大数据架构师（第6期）2021.11.24-2022.05.09完结]
-- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
+- [大数据系列完整清单](05大数据系列.md)
 
-## C#/.net，上位机系列
+## 06 C#/.net，上位机系列
 
-- [C#速成指南：从入门到进阶，实战WPF与Unity3D开发](https://pan.baidu.com/s/1qcdZ8PGuDs0nkZW1zx_qzQ) 提取码：w2mx
-- []
 **朝夕教育**
 - [01.【朝夕教育】C#.NET高级进阶VIP班（第15期）]
 - [01.【朝夕教育】C#.NET高级进阶VIP班（第16期）]
@@ -133,8 +117,9 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [06-【奕鼎通教育】C#/.NET P6架构班第四期（2110班）] **（推荐，热门）**
 - [07-【奕鼎通教育】C#/.NET P6架构班第四期（2307班）] **（推荐，热门）**
 - [C#/.net，上位机完整版](C%23,上机位.md)
+- [C#速成指南：从入门到进阶，实战WPF与Unity3D开发](https://pan.baidu.com/s/1qcdZ8PGuDs0nkZW1zx_qzQ) 提取码：w2mx
 
-## C/C++
+## 07 C/C++
 
 - [【小码哥】30小时快速精通C++和外挂实战]
 - [【博学谷】C/C++ 年度钻石会员]
@@ -162,13 +147,10 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [【子牙】手写JVM小班五期]
 - [【王道】C++长期班线下43期]
 - [【达内】c++软件工程师2023]
-- []
-**零声学院**
-**施磊（打包优惠）**
-**阅马场（打包优惠）**
+- [C/C++完整版](07C和C加加系列.md)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 
-## 网安/逆向
+## 08 网安/逆向
 
 - [01-小迪安全渗透2023]
 - [02-天道酬勤-Windows内核安全VIP]
@@ -195,8 +177,9 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [23-【看雪】恶意程序分析与高级对抗技术]
 - [24-【看雪】Linux平台漏洞分析利用和挖掘]
 - [25-【看雪】Unicorn高级逆向与反混淆]
+- [网安逆向完整清单](08网安逆向系列.md)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)                                 
-## 软件测试
+## 09 软件测试
 
 - [01-软件测试全六套](https://pan.baidu.com/s/1uQIySPhlILGL2G2M2BTjdQ )  提取码：jjsh
 - [02-【霍格沃茨】软件测试/Python 测试开发实战进阶班-12期]
@@ -206,21 +189,29 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [06-【黑马-博学谷】软件测试在线就业班-2021年完结V4.0]
 - [07-【百战】软件测试 全系列-2022最新]
 - [08-【码尚教育】测开之Python全栈自动化测试VIP课程对标大厂标准]
-- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)                 
-## 算法和数据结构
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)         
 
-- [01-算法与数据结构（C++版） 面试评级的算法复习技能包]        
+## 10 算法和数据结构
+
+- [01-算法与数据结构（C++版） 面试评级的算法复习技能包]      
+- [算法和数据结构清单](11算法和数据结构.md)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
-## 云计算
+
+## 11 云计算
 
 - [【猿来教育】 Linux云计算SRE工程师2023]
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
+
+## Android/Android逆向系列
+
 ## 网络安全
 
 ## 韦东山（全部）
+
 - [韦东山系列](韦东山.md)
 
 ## 鸿蒙开发系列
+
 - [鸿蒙开发系列](鸿蒙开发.md)
 
 ## 产品经理
@@ -237,11 +228,11 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [02-详细型简历模板35份](https://pan.baidu.com/s/15yOz_dobQJW4BFvsnVL8vQ)  提取码：u79m
 - [03-颠覆常规的简历15份](https://pan.baidu.com/s/1ihzVietiR4Gm9fyld68Umg) 提取码：k82f
 - [04-国际MBA视频课程《如何制作简历》](https://pan.baidu.com/s/1FDuhwr4hlULVT3AFTWIyNg) 提取码：omj1
-- [求职面试完整](求职面试.md)
+- [求职面试完整清单](求职面试.md)
 
 ## coderwhy系列
 
-- [coderwhy系列](coderwhy系列.md)
+- [coderwhy系列](10coderwhy系列.md)
 
 ## 其他技能课程
 
@@ -273,4 +264,4 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - **2024年了，祝大家都能得尝所愿**
 - **整理不易，记得 Star 关注哦**  
 - **最高级的自律，享受孤独**
-- **全部课程清单地址：https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji**  
+- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
