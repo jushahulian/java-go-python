@@ -19,7 +19,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 所有未贴提取码的请加本人微信获取
 ## 微信公众号课程会更多更全
 ![功能图](/.image/公众号.jpg)
-
+    
 ## 01java 系列
 
 - [01-JAVA300集大型视频教程2018版发布](https://pan.baidu.com/s/1QW02BalBusruC4LeE2wuHQ)  提取码：tkq9
@@ -204,7 +204,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 
 ## Android/Android逆向系列
 
-## 网络安全
+## 网络安全 
 
 ## 韦东山（全部）
 
@@ -237,13 +237,19 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 
 ## 人工智能AI系列
 
+- [人工智能AI系列](17人工智能系列.md)
 
 ## K8S、Docker、DevOps（运维）
 
 
 ## 游戏开发
 
+- [游戏开发](16游戏开发系列.md)
+
+
 ## 鸿蒙开发2024 风口
+
+- [鸿蒙完整清单](15鸿蒙开发系列.md)
 
 
 
@@ -252,7 +258,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [数据库完整清单](14数据库系列.md)
 
 ## 其他技能课程
-
+    
 - [01-写作教程](https://pan.baidu.com/s/1LIqCZHhfhUCrq-GurX3kHw)  提取码： 79fl
 - [02-沟通技巧教程](https://pan.baidu.com/s/1b_4vZiExmM0pWGUD28i2LQ)  提取码：vo48
 - [03-情绪管理教程](https://pan.baidu.com/s/1qIvCFVw4CIafmwiOUEh_Gg)  提取码：yp7u
