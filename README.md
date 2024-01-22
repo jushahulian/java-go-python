@@ -41,7 +41,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [17-SpringBoot+Vue3+MySQL集群 开发大健康体检双系统]
 - [18-新版Springboot3.0打造能落地的高并发仿12306售票]
 - [19-慕课网java](文件/03慕课网java108个.md)
-- [20-java系列大全](java系列.md)
+- [20-java系列大全](文件/java系列.md)
 - [21-极客时间](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 - [22-图灵课堂](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
 - [23-小滴课堂](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
