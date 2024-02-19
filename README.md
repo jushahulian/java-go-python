@@ -20,7 +20,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 ## 微信公众号课程会更多更全
 ![功能图](/.image/公众号.jpg)
 
-##热门课程 web
+## 热门课程 web
 - [宁皓 2023 独立开发者训练营（全栈）](https://ninghao.co/)
 - [金渡Web前端高级进阶2023](https://ke.qq.com/course/461341)
 - [妙思维【JS++】Web前端+Go全栈高级工程师养成班2023版](https://ke.qq.com/course/334138)
@@ -29,7 +29,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [印客学院Web前端大厂工程师训练营](http://encodestudio.cn/#/detail?type=1)
 - [慕课前端高级工程师（大前端）](https://class.imooc.com/sale/fesenior)
 
-##热门课程 java
+## 热门课程 java
 
 - [小滴工业级PaaS云平台+SpringCloudAlibaba 综合项目实战](https://xdclass.net/videoDetailsPage?id=62)
 - [小滴海量数据处理-商用短链平台项目大课](https://xdclass.net/videoDetailsPage?id=71)
@@ -43,7 +43,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [博学谷JavaEE就业2023](https://www.boxuegu.com/coursePage/?subject=java&pageType=0)
 
 
-##热门课程 Go开发运维
+## 热门课程 Go开发运维
 
 - [马哥高端Go语言百万并发高薪班12期](https://ke.qq.com/course/406096)
 - [马哥云原生-微服务治理大厂冲刺班高阶实战](https://ke.qq.com/course/340397)
@@ -58,7 +58,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [极客时间云原生训练营3期](https://u.geekbang.org/subject/cloudnative)
 - [极客时间邓明Go实战训练营2023](https://u.geekbang.org/subject/go2nd)
 
-##热门课程 Chat gpt
+## 热门课程 Chat gpt
 
 - 01 完结 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm)
 - 02 完结 [唐宇迪AIGC与大模型实战](https://leaaiv.cn/project-5/doc-158)
