@@ -61,8 +61,8 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 ## 热门课程 Chat gpt
 
 - 01 完结 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm)
-- 02 完结 [唐宇迪AIGC与大模型实战](https://leaaiv.cn/project-5/doc-158)
-- 03 完结 [卢菁ChatGLM大模型实战训练营](https://leaaiv.cn/project-5/doc-172/)
+- 02 完结 [唐宇迪AIGC与大模型实战]
+- 03 完结 [卢菁ChatGLM大模型实战训练营]
 - 04 完结 [唐宇迪AIGC与NLP大模型实战-经典CV与NLP大模型及其下游应用任务实现](https://edu.51cto.com/course/34207.html)
 - 05 完结 [七月在线类ChatGPT微调实战 [定制中文垂直商用版,且提供GPU]](https://www.julyedu.com/course/getDetail/483)
 - 06 更新 [知乎AI大模型全栈工程师2期](https://docs.qq.com/doc/DTlpWZHdPaFZlSk5M)
@@ -188,7 +188,7 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [【王道】C++长期班线下43期]
 - [【达内】c++软件工程师2023]
 - [C/C++系列完整清单](文件/07C和C加加系列.md)
-- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)
+_- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)_
 
 ## 08 网安/逆向
 
