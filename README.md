@@ -163,7 +163,6 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - 更新 [01.【](https://ke.qq.com/course/453949#term_id=105771026)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET高级进阶VIP班（第16期）](https://ke.qq.com/course/453949#term_id=105771026)
 - 完结 [02.【](https://ke.qq.com/course/456926)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】【薪选T9】C#.NET架构师蜕变营（第2期）](https://ke.qq.com/course/456926) **招牌**
 - 更新 [02.【](https://ke.qq.com/course/456926)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】【薪选T9】C#.NET架构师蜕变营（第3期）](https://ke.qq.com/course/456926) **招牌**
-
 - 完结 [03.【](https://ke.qq.com/course/464059#term_id=105860346)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET高端全栈VIP班（第3期）](https://ke.qq.com/course/464059#term_id=105860346)
 - 更新 [03.【](https://ke.qq.com/course/464059#term_id=106049680)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET高端全栈VIP班（第4期）](https://ke.qq.com/course/464059#term_id=106049680)
 - 更新 [04.【](https://ke.qq.com/course/464930#term_id=106050918)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#+Winform+WPF上位机高薪就业VIP班(SqlServerS7Modbus工控)（第4期）](https://ke.qq.com/course/464930#term_id=106050918)
