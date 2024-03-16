@@ -158,16 +158,31 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 ## 06 C#/.net，上位机系列
 
 **朝夕教育**
-- [01.【朝夕教育】C#.NET高级进阶VIP班（第16期）]
-- [02.【朝夕教育】【薪选T9】C#.NET架构师蜕变营（第2期）] **招牌**
-- [02.【朝夕教育】【薪选T9】C#.NET架构师蜕变营（第3期）] **招牌**
-- [03.【朝夕教育】C#.NET高端全栈VIP班（第4期）]
-- [04.【朝夕教育】C#+Winform+WPF上位机高薪就业VIP班(SqlServerS7Modbus工控)（第4期）]
-- [05.【朝夕教育】WPF+上位机+工业互联高薪VIP班(PLCS7运动控制机器视觉物联网（第3期）]
-- [06-【奕鼎通教育】C#/.NET P6架构班第四期（2110班）] **（推荐，热门）**
-- [07-【奕鼎通教育】C#/.NET P6架构班第四期（2307班）] **（推荐，热门）**
+
+- 完结 [01.【朝夕教育】C#.NET高级进阶VIP班（第15期）](https://ke.qq.com/course/453949#term_id=105694591)
+- 更新 [01.【](https://ke.qq.com/course/453949#term_id=105771026)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET高级进阶VIP班（第16期）](https://ke.qq.com/course/453949#term_id=105771026)
+- 完结 [02.【](https://ke.qq.com/course/456926)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】【薪选T9】C#.NET架构师蜕变营（第2期）](https://ke.qq.com/course/456926) **招牌**
+- 更新 [02.【](https://ke.qq.com/course/456926)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】【薪选T9】C#.NET架构师蜕变营（第3期）](https://ke.qq.com/course/456926) **招牌**
+
+- 完结 [03.【](https://ke.qq.com/course/464059#term_id=105860346)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET高端全栈VIP班（第3期）](https://ke.qq.com/course/464059#term_id=105860346)
+- 更新 [03.【](https://ke.qq.com/course/464059#term_id=106049680)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET高端全栈VIP班（第4期）](https://ke.qq.com/course/464059#term_id=106049680)
+- 更新 [04.【](https://ke.qq.com/course/464930#term_id=106050918)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#+Winform+WPF上位机高薪就业VIP班(SqlServerS7Modbus工控)（第4期）](https://ke.qq.com/course/464930#term_id=106050918)
+- 完结 [04【](https://ke.qq.com/course/464930#term_id=105655963)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#+Winform+WPF上位机高薪就业VIP班(SqlServerS7Modbus工控) (第3期)](https://ke.qq.com/course/464930#term_id=105655963)
+- 完结 [05.【](https://ke.qq.com/course/2959515#term_id=105854048)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】WPF+上位机+工业互联高薪VIP班(PLCS7运动控制机器视觉物联网（第2期）](https://ke.qq.com/course/2959515#term_id=105854048)
+- 更新 [05.【](https://ke.qq.com/course/2959515#term_id=106230582)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】WPF+上位机+工业互联高薪VIP班(PLCS7运动控制机器视觉物联网（第3期）](https://ke.qq.com/course/2959515#term_id=106230582)
+- 完结 [06.【](https://ke.qq.com/course/2962503)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】ABP.vNext框架精研VIP班](https://ke.qq.com/course/2962503)
+- 完结 [09.【](https://ke.qq.com/course/3455220)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】Web前端实战进阶VIP班（第2期）](https://ke.qq.com/course/3455220)
+- 完结 [10.【](https://ke.qq.com/course/3456377)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】C#.NET网站开发高薪就业VIP班](https://ke.qq.com/course/3456377)
+- 完结 [11.【](https://ke.qq.com/course/3518361)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】MVP亲授C#.NET编程设计锦囊（第2期）](https://ke.qq.com/course/3518361)
+- 完结 [12.【](https://ke.qq.com/course/3853023)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】.NET跨平台专属Linux私房课](https://ke.qq.com/course/3853023)
+- 完结 [14.【](https://ke.qq.com/course/4158259)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】高级项目管理VIP课，专为【程序员升级，年薪突破30w】定向打造](https://ke.qq.com/course/4158259)
+- 完结 [15.【](https://ke.qq.com/course/4455169)[朝夕](https://ke.qq.com/course/453949#term_id=105694591)[教育】金三银四面试锦囊](https://ke.qq.com/course/4455169)
+- 更新[18.【朝夕教育】朝夕运动控制+机器视觉专项实战进阶](https://ke.qq.com/course/5859414#term_id=106262733)
+- 更新[19.【朝夕教育】C++和QT跨平台客户端零基础到多实战-复制链接微信打开](http://wechat.zhaoxiedu.net/?code=091Poc200S3arR1h7t100XAXea0Poc2e&state=0#/video?courseId=462&courseImg=http://qiniu.zhaoxiedu.net/20231205%2F78f163bbb7034635b9ed66bba2c368c8.jpg?e=1705231200&token=jNk1Y54oJ6yTQDNpTxP675bIMLjr39SDEevcW-fK:32HV17nDiLIolh5w3JCrffJ1VCg=&title=C++和QT跨平台客户端-VIP课程&subtitle&cycle=1&subscribe=4871)
+- 更新[20.【朝夕教育】Xamarin+MAUI-C#移动开发专修班-复制链接微信打开](http://wechat.zhaoxiedu.net/?code=091Poc200S3arR1h7t100XAXea0Poc2e&state=0#/video?courseId=438&courseImg=http://qiniu.zhaoxiedu.net/20230908%2F1fc812b70a0b47448b4c961bc189af20.jpg?e=1705229520&token=jNk1Y54oJ6yTQDNpTxP675bIMLjr39SDEevcW-fK:bvRO5JRYIluPpxNwOEH1s0dItSY=&title=Xamarin+MAUI-C#移动开发VIP班&subtitle&cycle=1&subscribe=2098)
+- 完结[21.【朝夕教育】Unity3D全栈游戏开发VIP班（一期，二期）-复制链接到微信打开](http://wechat.zhaoxiedu.net/?code=081TTg0w35FLh23oVN3w3DP2451TTg0t&state=0#/video?courseId=425&courseImg=http://qiniu.zhaoxiedu.net/20230908%2F561f06d1f1234029928ffabfe150c4c8.jpg?e=1708521000&token=jNk1Y54oJ6yTQDNpTxP675bIMLjr39SDEevcW-fK:v99F5U5RSchUmYu52Z03IeFyRyU=&title=C#+Unity3D全栈游戏开发&subtitle&cycle=2&subscribe=2616)
+- 完结[22.【朝夕教育】Electron+Vue3+React跨平台客户端专项课-复制链接到微信打开](http://wechat.zhaoxiedu.net/?code=091Poc200S3arR1h7t100XAXea0Poc2e&state=0#/video?courseId=437&courseImg=http://qiniu.zhaoxiedu.net/20230908%2F997922f7d3314f9cb5d39e050712e16d.jpg?e=1708521960&token=jNk1Y54oJ6yTQDNpTxP675bIMLjr39SDEevcW-fK:6oD3e3KciLh2GgKjC6yJWi5Ey7M=&title=Electron+Vue3+React跨平台客户端专项课&subtitle&cycle=1&subscribe=2931)
 - [C#/.net，上位机完整版](文件/06上机位.md)
-- [C#速成指南：从入门到进阶，实战WPF与Unity3D开发](https://pan.baidu.com/s/1qcdZ8PGuDs0nkZW1zx_qzQ) 提取码：w2mx
 
 ## 07 C/C++
 
