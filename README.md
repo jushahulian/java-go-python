@@ -214,8 +214,8 @@ _- [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)_
 - [06-【任鸟飞】2022失落的方舟(LOSTARK)C++逆向安全课程]
 - [07-【任鸟飞】2022XXZ经典怀旧C++完整项目- 狂虐VM逆向安全课程]
 - [08-【任鸟飞】2022FPS,矩阵,骨骼,绘制,自瞄,U3D,UE4实战专题课]
-- [09-【看雪】安卓高级研修课2万班-20年春季班]
-- [10-【看雪】安卓高级研修课3万班-20年春季班]
+- [【看雪】[2023秋季班]《安卓高级研修班(网课)》月薪三万计划](https://www.kanxue.com/book-leaflet-84.htm?items=chapter)
+- [【看雪】[2023秋季班]《安卓高级研修班(网课)》月薪二万计划](https://www.kanxue.com/book-leaflet-83.htm)
 - [网安逆向完整清单](文件/08网安逆向系列.md)
 - [全部课程清单地址](https://www.wolai.com/RZKBs7nX8ZPTMJDMAD6ji)                                 
 ## 09 软件测试
