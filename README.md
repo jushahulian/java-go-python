@@ -12,7 +12,6 @@ java,python,c#,go ,大数据，数据库等相关学习视频和资料分享
 - [更新记录2024](文件/更新记录.md)
 
 ## 热门课程 web
-- [宁皓 2023 独立开发者训练营（全栈）](https://ninghao.co/)
 - [金渡Web前端高级进阶2023](https://ke.qq.com/course/461341)
 - [妙思维【JS++】Web前端+Go全栈高级工程师养成班2023版](https://ke.qq.com/course/334138)
 - [极客前端进阶特训营winter、杨村长、然叔、高少云](https://u.geekbang.org/subject/fe4th)
